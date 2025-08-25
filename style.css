@@ -242,6 +242,7 @@ body {
 }
 
 .marque h1 {
+  width: 45vw;
   letter-spacing: -2px;
   color: black;
   margin: 0;
@@ -476,6 +477,9 @@ body {
     font-size: 4.5vh;
     line-height: 5vh;
   }
+
+  .marque h1{ width: 100vw; }
+
   .section-4-cards > img {
     height: 40vh;
   }
@@ -516,12 +520,6 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-  }
-
-  .marque h1 {
-    width: 46vw;
-    font-size: 3vh;
-    letter-spacing: 0px;
   }
 
   .marque img {
@@ -605,7 +603,7 @@ body {
     line-height: 4vh;
   }
   .marque{ gap: 6vw; }
-  .marque h1 { font-size: 2vh; width: 64vw; };
+  .marque h1{ width: 76vw; font-size: 3vh; }
   .section-2{ padding-bottom: 0vh; }
   .section-4-cards > img { height: 25vh; }
   .section-5 {
