@@ -1,11 +1,6 @@
-
-@font-face {
-  font-family: 'SF-Pro';
-  src: url('./sfpro/SFPRODISPLAYREGULAR.OTF');
-}
 @font-face {
   font-family: 'DirtyBrush';
-  src: url('./DirtyBrush-BZYV.ttf');
+  src: url('./DirtyBrush-BZYV.otf');
 }
 
 body, html {
